@@ -1,0 +1,78 @@
+✅ Requerimientos Funcionales
+
+Gestión de Productos
+
+Crear, editar, eliminar y listar productos.
+
+Cada producto debe tener: nombre, código único, categoría (ej. zapatillas, botas), talla, color, precio de compra, precio de venta, proveedor y cantidad en stock.
+
+Gestión de Categorías
+
+Posibilidad de organizar productos en categorías personalizables.
+
+Gestión de Inventario
+
+Registrar entradas (compra o reabastecimiento) y salidas (venta o pérdida) de productos.
+
+Visualizar stock actualizado en tiempo real.
+
+Gestión de Proveedores
+
+Registrar y mantener información de proveedores (nombre, contacto, dirección, historial de productos entregados).
+
+Gestión de Ventas
+
+Registrar ventas con detalle de productos vendidos, cantidades, precios y total.
+
+Asociar ventas a clientes (opcional).
+
+Reportes
+
+Reporte de stock actual.
+
+Reporte de productos más vendidos.
+
+Reporte de compras y ventas por fecha.
+
+Control de Usuarios (opcional para versiones futuras)
+
+Múltiples roles: administrador, vendedor, etc.
+
+Registro de actividad por usuario.
+
+❌ Requerimientos No Funcionales
+
+Usabilidad
+
+Interfaz sencilla, adaptada a usuarios sin conocimientos técnicos.
+
+Portabilidad
+
+Web responsive, compatible con móviles y tablets.
+
+Seguridad
+
+Acceso mediante autenticación (si se implementa login).
+
+Validación de datos en formularios.
+
+Mantenibilidad
+
+Código limpio y documentado, con posibilidad de ampliación en el futuro.
+
+Rendimiento
+
+El sistema debe ser capaz de manejar un inventario de hasta 10,000 productos sin degradar el rendimiento.
+
+🛠️ Tecnologías Sugeridas
+
+Esta sección puede ser modificada según las herramientas que se utilicen en el proyecto.
+
+Frontend: React / Vue / HTML + Bootstrap
+
+Backend: Node.js / Django / Laravel
+
+Base de Datos: MySQL / PostgreSQL / SQLite
+
+Hosting: GitHub Pages (solo frontend) o Heroku / Vercel / Render (full stack)
+
