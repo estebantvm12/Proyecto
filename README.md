@@ -1,1 +1,3 @@
-# Proyecto
+Este proyecto tiene como objetivo desarrollar un sistema de inventario para la empresa de calzado Nova Flex. El sistema permitirá llevar un control detallado de productos, stock, entradas/salidas de mercancía, y generar reportes útiles para la toma de decisiones.
+
+El inventario de Nova Flex cumple una función crítica dentro de la operación diaria de la empresa, ya que permite registrar y monitorear en tiempo real la disponibilidad de productos, optimizar la reposición de stock, identificar los artículos más vendidos y reducir pérdidas por errores o faltantes. Asimismo, el sistema proporciona una base confiable para la toma de decisiones estratégicas relacionadas con compras, ventas y logística.
